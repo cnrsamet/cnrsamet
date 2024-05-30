@@ -2,7 +2,6 @@
 
 <h1 align="center">Hey! 👋, I'm Samet CANER</h1>
 <h3 align="center">A passionate Backend developer from Turkiye</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2t2ZWhqdTJvZzdwNHhrOWJoM2dwcDhzNWtiaHlzdGk3cnd5OGoycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cnrsamet&label=Profile%20views&color=0e75b6&style=flat" alt="cnrsamet" /> </p>
