@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cnrsamet&label=Profile%20views&color=0e75b6&style=flat" alt="cnrsamet" /> </p>
 
-- 🔭 I’m currently working on **Node.js, API**
+- 🔭 I’m currently working on **Javascript, Node.js, API**
 
-- 🌱 I’m currently learning **Express.js, Frontend, Backend, Node.js**
+- 🌱 I’m currently learning **Express.js, Frontend, Backend, Node.js, Next.js, Tailwindcss**
 
-- 🤝 I’m looking for help with **Javascript, Node.js, MongoDB, Typescript**
+- 🤝 I’m looking for help with **Javascript, Node.js, MongoDB, Typescript, Next.js, Tailwindcss**
 
 - 📫 How to reach me **c.sametcaner@gmail.com**
 
