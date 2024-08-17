@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cnrsamet&label=Profile%20views&color=0e75b6&style=flat" alt="cnrsamet" /> </p>
 
-- 🔭 I’m currently working on **Javascript, Node.js, API**
+- 🔭 I’m currently working on **Javascript, Next,js, Tailwindcss, Node.js, API**
 
 - 🌱 I’m currently learning **Express.js, Frontend, Backend, Node.js, Next.js, Tailwindcss**
 
