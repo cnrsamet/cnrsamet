@@ -8,9 +8,7 @@
 
 - 🔭 I’m currently working on **Javascript, Next,js, Tailwindcss, Node.js, API**
 
-- 🌱 I’m currently learning **Express.js, Frontend, Backend, Node.js, Next.js, Tailwindcss**
-
-- 🤝 I’m looking for help with **Javascript, Node.js, MongoDB, Typescript, Next.js, Tailwindcss**
+- 🌱 I’m currently learning **Data Analysis, Backend, Node.js, Express.js, Frontend, Next.js, Tailwindcss, **
 
 - 📫 How to reach me **c.sametcaner@gmail.com**
 
