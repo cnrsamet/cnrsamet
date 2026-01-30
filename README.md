@@ -4,8 +4,6 @@
 <h3 align="center">A passionate developer from Turkiye</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cnrsamet&label=Profile%20views&color=0e75b6&style=flat" alt="cnrsamet" /> </p>
-
 - 🔭 I’m currently working on **Python, Javascript, Pandas, Numpy, Next,js, Tailwindcss, Node.js, API**
 
 - 🌱 I’m currently learning **Data Analysis, Backend, Node.js, Express.js, Frontend, Next.js, Tailwindcss**
