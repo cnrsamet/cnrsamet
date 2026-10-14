@@ -1,16 +1,14 @@
+<h1 align="center">Hey 👋, I'm Samet CANER</h1>
 
+I like building things end to end: mostly web, some mobile, and systems built around LLMs.
 
-<h1 align="center">Hey! 👋, I'm Samet CANER</h1>
-<h3 align="center">A passionate developer from Turkiye</h3>
+In the age of AI coding agents, I'm not sure how much this list matters, but tradition is tradition:
 
+**Frontend:** HTML · CSS · JavaScript · React · Next.js · Tailwind CSS\
+**Mobile:** React Native\
+**Backend:** Python · Node.js · Express · Firebase · PostgreSQL · MongoDB\
+**Data (learning):** Pandas · NumPy · Matplotlib · Seaborn · Web Scraping\
+**Tools:** Claude · Codex · Git · GitHub · Postman · Jira · Trello · Jupyter
 
-- 🔭 I’m currently working on **Python, Javascript, Pandas, Numpy, Next,js, Tailwindcss, Node.js, API**
-
-- 🌱 I’m currently learning **Data Analysis, Backend, Node.js, Express.js, Frontend, Next.js, Tailwindcss**
-
-- 📫 How to reach me **c.sametcaner@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/cnrsamet" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cnrsamet" height="30" width="40" /></a>
-</p>
+✍️ Writing at [blog.sametcaner.com](https://blog.sametcaner.com)\
+📫 c.sametcaner@gmail.com · [LinkedIn](https://linkedin.com/in/cnrsamet)
